@@ -1,5 +1,3 @@
-Here’s the updated version of your README with the repository link changed and all instances of "Keerthi" removed:
-
 ---
 
 # Unified Tax Calculation System  

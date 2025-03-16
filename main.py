@@ -350,4 +350,4 @@ if 'submitted' in st.session_state and st.session_state.submitted:
 st.markdown("---")
 st.markdown("🔹 **Disclaimer**: Consult a CA for official tax filing.")
 
-st.markdown("<h2 style='text-align: center;'>✨Creatively innovated with passion, by Keerthi Sai. 🚀</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>🎯Creatively innovated with passion, by Upendra. 🚀</h2>", unsafe_allow_html=True)
